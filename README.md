@@ -15,7 +15,7 @@ The transpiled and bundled code will be placed in `demo/dist`. Run a web server 
 ### Prior art
 
 * [polymer3-webpack-starter-kit build scripts](https://github.com/Dabolus/polymer3-webpack-starter-kit)
-* [materiakl-components-web-components build scripts](https://github.com/material-components/material-components-web-components)
+* [material-components-web-components build scripts](https://github.com/material-components/material-components-web-components)
 
 ### License (MIT)
 
