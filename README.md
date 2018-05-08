@@ -1,4 +1,4 @@
-lit-components demo
+lit-element-build-example
 ====================
 
 This is a demo of a simple webpack based build process that builds and bundles a [LitElement]() component for use in older browsers like IE11.
